@@ -37,7 +37,7 @@ TapTux combines container-based isolation with low-level system-oriented compone
 
 ```bash
 TapTux CLI - Initial Release Scheduled
-ETA: 29 Sept, 2026
+ETA: 29 Oct, 2026
 ```
 
 ### 2. TapTux (TUI)
